@@ -1,0 +1,455 @@
+{
+  "url": "https://kitalimentacao.com.br/",
+  "contexto": "Pessoal",
+  "source_directory": "/Users/diegorangel/www/daiegon/paginas_download/kitalimentacao.com.br-raiz-3aa3df19/2026-10-25T20-05-20-0300-45b9e0",
+  "source_sha256": "f17b6140e0aefd7c9596c67cb9859e208f0d7aaf130e1f5991b2a605799a33df",
+  "consultation_sha256": "e54484b5cf9cf6d02e042024c2470c8d00a8c1ad87c950dc5fff9f68ca7782ff",
+  "index_sha256": "5862d27f23f2f14604174fb1aa2e61b194e4566cc550d82a02b219b850d5fce8",
+  "removed_scripts": [
+    {
+      "kind": "remove-script",
+      "reason": "Meta form tracking bridge",
+      "sha256": "c2982a05f154f49ade6e669b1521734bb5b5e63503edc841e56e957b31063ec5"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Meta pixel invocation",
+      "sha256": "b74c94c8bb401c0ae9c115b6e730ab422d27476cb0f4a5ebe7ce51b39f75f41d"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Meta pixel invocation",
+      "sha256": "c846a45b2f8a7930f0224b252a913716d11f7c324ab93926bb163b19a43855ef"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Meta pixel invocation",
+      "sha256": "d338436b6600cf02d8f9d2ebaabd3632e19b488c37bfb8aa0d778f54a50aae17"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Meta pixel bootstrap",
+      "sha256": "eff3e7e56252029120f2fbf14a0b40a42243c5ded8dc10ad0ed0def8d56105d0"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Clarity bootstrap",
+      "sha256": "56db4b29b6561e757eaae2912298b2d1e201a027b5580e47fbacf4436dcb84de"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "Google tag initialization",
+      "sha256": "ed36751dcbc84390a3e81c1b77711e5201c87a26d7313e85e241e1f086efa551"
+    },
+    {
+      "kind": "remove-script",
+      "reason": "WordPress emoji bootstrap; native Unicode retained",
+      "sha256": "4782769c7327dfe820a50a62b087a7b83b673b6be57dd0e6098566090800fa71"
+    }
+  ],
+  "embedded_assets": {
+    "assets/embedded/d22ca86ce0a309472c86.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 289901,
+      "sha256": "d22ca86ce0a309472c86882f3ee51cd672cba89ab133d47b1121e762a55851e4"
+    },
+    "assets/embedded/0b77f75bcfb38efb3dcd.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 210620,
+      "sha256": "0b77f75bcfb38efb3dcd00e3331af5f007496c5fe44a4f3bb9f3359fd5e2b3b0"
+    },
+    "assets/embedded/663eb0c5786bfa06b320.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 186177,
+      "sha256": "663eb0c5786bfa06b3207ab086451644b748654355838addccbc74df3f0c4b39"
+    },
+    "assets/embedded/17f2720212f956ca43ac.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 155211,
+      "sha256": "17f2720212f956ca43acaea4c2790e516248fdb7b4b31e040bd8b7d25f7b1258"
+    },
+    "assets/embedded/6f544db6425ded443a62.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 185644,
+      "sha256": "6f544db6425ded443a62b280131eda4fec10c84d3a881498e5d5b8b7c4a7f26b"
+    },
+    "assets/embedded/aaeaaa02aa36a43d2336.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 198038,
+      "sha256": "aaeaaa02aa36a43d233615c127855379304697d711c3b80741c9caa8b8e6283c"
+    },
+    "assets/embedded/06fde246742efc809837.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 249593,
+      "sha256": "06fde246742efc809837b5dc6c8d185661a2e1b6e4e788853aec6622cda4d344"
+    },
+    "assets/embedded/e13192a4397a3d30ba7b.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 157285,
+      "sha256": "e13192a4397a3d30ba7b9bb03fd6c6c09babd16620f04010339c34812e5a7bc1"
+    },
+    "assets/embedded/a3f51988de8c927ed0e0.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 14801,
+      "sha256": "a3f51988de8c927ed0e094c435e40d4261940a9bde3e0f2fc96a2c1b857aaa50"
+    },
+    "assets/embedded/830c582728a1d8a5a368.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 14339,
+      "sha256": "830c582728a1d8a5a368049f6f013b051d59404cb7bfaacbe756d13daec3d3bb"
+    },
+    "assets/embedded/8cf46913aae2b31527a3.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 19970,
+      "sha256": "8cf46913aae2b31527a3dd830cbfc25387df162529744781722b67fbc07a257b"
+    },
+    "assets/embedded/7579d5b27ad1c9619e7f.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 16582,
+      "sha256": "7579d5b27ad1c9619e7f2356cd3b203b797521dad61dd0375293e68e6719d5d0"
+    },
+    "assets/embedded/3b236e9a98cf7d1cf1dd.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 16288,
+      "sha256": "3b236e9a98cf7d1cf1dd8d8ff31269fb51cfba9e961f797446716ed3284bda93"
+    },
+    "assets/embedded/604c2391b5595ff3ef35.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 13219,
+      "sha256": "604c2391b5595ff3ef35b393dafc6df29475b5c69e4ae8b462cffefa75d28ab9"
+    },
+    "assets/embedded/a9d91bb4ea3abc75e9ab.woff2": {
+      "mime": "font/woff2",
+      "bytes": 97132,
+      "sha256": "a9d91bb4ea3abc75e9ab91b81711137a82b3f52b1aa30c99f3c10e190a56717a"
+    },
+    "assets/embedded/9f06741ff731c4555398.woff2": {
+      "mime": "font/woff2",
+      "bytes": 41748,
+      "sha256": "9f06741ff731c4555398df16ce523ee8fd24dfd9dfd2ff2a6c9d63239cf0e9f7"
+    },
+    "assets/embedded/fab8a0056d92fdd8d64f.woff2": {
+      "mime": "font/woff2",
+      "bytes": 16692,
+      "sha256": "fab8a0056d92fdd8d64fed4b049744144e1d24d08762c513bff78265299ed7a3"
+    },
+    "assets/embedded/0a44e0bb6ba5c8537e88.woff2": {
+      "mime": "font/woff2",
+      "bytes": 37520,
+      "sha256": "0a44e0bb6ba5c8537e8814c148ef7755f1bce12112361231f595ecc584a18d7a"
+    },
+    "assets/embedded/d0b4256abed724815856.woff2": {
+      "mime": "font/woff2",
+      "bytes": 78196,
+      "sha256": "d0b4256abed72481585662971262eabee345c19f837af00d7ce24239d3b40eef"
+    },
+    "assets/embedded/6b2680fab784d245cbb2.woff2": {
+      "mime": "font/woff2",
+      "bytes": 81612,
+      "sha256": "6b2680fab784d245cbb23d3b51e8d18740e8fc1c7c1c8eadcf0b2b7612125ff8"
+    },
+    "assets/embedded/ed167af9f0fecf209b89.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 5735,
+      "sha256": "ed167af9f0fecf209b89296ab2600354fa2f86a0406f1ca36526a53f5e52afd1"
+    },
+    "assets/embedded/c2b602b319e5a1044e7e.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 7753,
+      "sha256": "c2b602b319e5a1044e7e560260c5bcd3199d2056cd052f1b2b8de9ed0aba2ac9"
+    },
+    "assets/embedded/127027d6ea29a4a388a2.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 464364,
+      "sha256": "127027d6ea29a4a388a23d23b65843fffe74d78786cce5b44926975b51322261"
+    },
+    "assets/embedded/26de936c2aadfc29bbc4.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 33930,
+      "sha256": "26de936c2aadfc29bbc4a420079276101d09bb99ab921aa88d99f43460e118d2"
+    },
+    "assets/embedded/05c9fca1d4d37fb3ac8c.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 42855,
+      "sha256": "05c9fca1d4d37fb3ac8cfa7b8d7fcf397520a11742c948af7a36e04c2910f4b1"
+    },
+    "assets/embedded/e0b39fb56b4cfc12f09d.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 21555,
+      "sha256": "e0b39fb56b4cfc12f09d7f81045307d1da8301028979af7cf6b5f5f23b4130d7"
+    },
+    "assets/embedded/50e478fffe38bce5c63d.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 49716,
+      "sha256": "50e478fffe38bce5c63d55fa7bbdc7ee8778aaca8962fe91e4aa18f933dbcd99"
+    },
+    "assets/embedded/f395d0bb8eaf861e43ec.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 30775,
+      "sha256": "f395d0bb8eaf861e43ec26126a10221d515cca861652a716221102c6d8e758bc"
+    },
+    "assets/embedded/6504959ac80c02fffcc6.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 26161,
+      "sha256": "6504959ac80c02fffcc672e41f7745df98f3048a5a46ca0c32beea85393b9357"
+    },
+    "assets/embedded/037606fb7bf0854945f5.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 194397,
+      "sha256": "037606fb7bf0854945f5ee5e3d1a03ff72bbd3434bfd84529dfe2d933bb6a450"
+    },
+    "assets/embedded/1989ab6d32a247d5ce48.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 130097,
+      "sha256": "1989ab6d32a247d5ce483d2c84b7b76870e6c9e99729d87f0d5bc0f7607f9fe9"
+    },
+    "assets/embedded/d521b953965830730a68.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 15194,
+      "sha256": "d521b953965830730a68178b1b2004ad8576b13f07cabae2a7eb402a172792a1"
+    },
+    "assets/embedded/c03344b749bcaa77579d.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 12441,
+      "sha256": "c03344b749bcaa77579da37eef8747ce62572a1f43a4c0b347b6fc21a32cd26c"
+    },
+    "assets/embedded/c7b77f7d65112b2b1de5.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 14349,
+      "sha256": "c7b77f7d65112b2b1de557fa9703d03d6cce5fe2102358a2ed0f7fb11460ab66"
+    },
+    "assets/embedded/dae94ef99439ceb4056f.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 23223,
+      "sha256": "dae94ef99439ceb4056f8853bb5f5f68f7c05797b1e79dd887091530052b49c4"
+    },
+    "assets/embedded/fe92ade92b5dcac85f4a.jpg": {
+      "mime": "image/jpeg",
+      "bytes": 11994,
+      "sha256": "fe92ade92b5dcac85f4a21b3903db1233855a81d9b26d304a2e53cf9d9c067a4"
+    },
+    "assets/embedded/629218d8d5d81a2d420a.mp4": {
+      "mime": "video/mp4",
+      "bytes": 1627394,
+      "sha256": "629218d8d5d81a2d420a8512898bc6c3a095fc63b0751b67bd9beb47f68ab989"
+    },
+    "assets/embedded/d0d4cd897d0f2536a8b4.js": {
+      "mime": "application/javascript",
+      "bytes": 5881,
+      "sha256": "d0d4cd897d0f2536a8b43280335448ed97b30389ef02c082afd457fe5cc16d0f"
+    },
+    "assets/embedded/ea7c1c08aee4680b4a00.js": {
+      "mime": "application/javascript",
+      "bytes": 4997,
+      "sha256": "ea7c1c08aee4680b4a00176480808af4303e830e59076601186fa6b6a8cd3de9"
+    },
+    "assets/embedded/cb6f2d32c49d1c2b25e9.js": {
+      "mime": "application/javascript",
+      "bytes": 87553,
+      "sha256": "cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf"
+    },
+    "assets/embedded/5274f11e6fb32ae0cf2d.js": {
+      "mime": "application/javascript",
+      "bytes": 13577,
+      "sha256": "5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89"
+    },
+    "assets/embedded/ba9fe4a8326514c5d522.js": {
+      "mime": "application/javascript",
+      "bytes": 67411,
+      "sha256": "ba9fe4a8326514c5d5225c678d669a4ac73a36eb360874603d3d908bd56d20da"
+    },
+    "assets/embedded/c1a9a3e223bad631dff1.js": {
+      "mime": "application/javascript",
+      "bytes": 8171,
+      "sha256": "c1a9a3e223bad631dff12d33b5499eb145cb08d8621c20d9d73870e78d97afe4"
+    },
+    "assets/embedded/1d52e1ac7d3bc25a8b0f.js": {
+      "mime": "application/javascript",
+      "bytes": 6625,
+      "sha256": "1d52e1ac7d3bc25a8b0ffc257153f9dd50249f96fe9a4df5e0d771241a69062c"
+    },
+    "assets/embedded/17b79ece7ef9d1454a90.js": {
+      "mime": "application/javascript",
+      "bytes": 38590,
+      "sha256": "17b79ece7ef9d1454a90156690d33d64387b67a7a7548fc826012512e287a937"
+    },
+    "assets/embedded/2cb546fbdda7995d374f.js": {
+      "mime": "application/javascript",
+      "bytes": 4307,
+      "sha256": "2cb546fbdda7995d374fffa4b2f6530bbcf57d014639ddf76de45df43d593045"
+    },
+    "assets/embedded/f313d12ea6124bd28fc4.js": {
+      "mime": "application/javascript",
+      "bytes": 9141,
+      "sha256": "f313d12ea6124bd28fc4a6b7163d253bb83d5aeab5edce594880c5c3df475cbc"
+    },
+    "assets/embedded/9bba4192f0c61a2de0f6.js": {
+      "mime": "application/javascript",
+      "bytes": 25050,
+      "sha256": "9bba4192f0c61a2de0f6288806c60fd1ee03af7c8e61f1ccc189a55c45512aef"
+    },
+    "assets/embedded/214674cc77aba35ab356.js": {
+      "mime": "application/javascript",
+      "bytes": 12198,
+      "sha256": "214674cc77aba35ab3567b88e2739fd08e8e96c61d279559ad61874069683ea0"
+    },
+    "assets/embedded/ca7dce2391845e8aec7d.js": {
+      "mime": "application/javascript",
+      "bytes": 21438,
+      "sha256": "ca7dce2391845e8aec7da135f33fabd10f74eed28a532ac66fd01f761fcfb42f"
+    },
+    "assets/embedded/58b6a985e0e3041e00f1.js": {
+      "mime": "application/javascript",
+      "bytes": 40254,
+      "sha256": "58b6a985e0e3041e00f1fda910e639e3176f73767f2b4826b960b3307c4f8e2d"
+    },
+    "assets/embedded/b593b289db14bdf735ee.js": {
+      "mime": "application/javascript",
+      "bytes": 41573,
+      "sha256": "b593b289db14bdf735eea520e7b45e2941e4a5628d79ab40533274053b72dcf6"
+    },
+    "assets/embedded/749050b9e72078b086ef.js": {
+      "mime": "application/javascript",
+      "bytes": 10777,
+      "sha256": "749050b9e72078b086ef578e9d5c6e764c89985d149a4ac76861004e0e6945ca"
+    },
+    "assets/embedded/1030dee6b293cd2f1331.js": {
+      "mime": "application/javascript",
+      "bytes": 2752,
+      "sha256": "1030dee6b293cd2f1331f5355130a5db48929f961ba7409a4d4ce83c73caefdd"
+    },
+    "assets/embedded/2ac3af00c283c0b2ae61.js": {
+      "mime": "application/javascript",
+      "bytes": 143709,
+      "sha256": "2ac3af00c283c0b2ae6108fa83a2053e51274a2a812fb063916cbe19bc4f96b5"
+    }
+  },
+  "downloaded_dependencies": {
+    "assets/galeria/kit01.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit01.jpeg",
+      "bytes": 117811,
+      "sha256": "36ffc755b3bfacc96419c033e8a6002f74714254b8610c274bb1e375b0583505"
+    },
+    "assets/galeria/kit02.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit02.jpeg",
+      "bytes": 186620,
+      "sha256": "4a4f311c6ad751620e785016dfa22050a5e8e7b4a6700f65b4439d030ccb7804"
+    },
+    "assets/galeria/kit03.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit03.jpeg",
+      "bytes": 155291,
+      "sha256": "b789fe48137e2a7b123d49b7dec0f4d829d3bd5998bce9dae7d056d0ce0af6b0"
+    },
+    "assets/galeria/kit04.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit04.jpeg",
+      "bytes": 157285,
+      "sha256": "e13192a4397a3d30ba7b9bb03fd6c6c09babd16620f04010339c34812e5a7bc1"
+    },
+    "assets/galeria/kit05.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit05.jpeg",
+      "bytes": 200296,
+      "sha256": "a5d609e19c0ae38abbc0d35782c4d02cbf76c243fe0d27409f8675fa19303efd"
+    },
+    "assets/galeria/kit06.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit06.jpeg",
+      "bytes": 249593,
+      "sha256": "06fde246742efc809837b5dc6c8d185661a2e1b6e4e788853aec6622cda4d344"
+    },
+    "assets/galeria/kit07.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2023/01/kit07.jpeg",
+      "bytes": 198038,
+      "sha256": "aaeaaa02aa36a43d233615c127855379304697d711c3b80741c9caa8b8e6283c"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-1.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-1.jpeg",
+      "bytes": 258421,
+      "sha256": "52f4447264f8b1fbca15d3edb5b79f3b5f2269b88dfc083cb01722ffd355f0ae"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-10.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-10.jpeg",
+      "bytes": 185644,
+      "sha256": "6f544db6425ded443a62b280131eda4fec10c84d3a881498e5d5b8b7c4a7f26b"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-3.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-3.jpeg",
+      "bytes": 289901,
+      "sha256": "d22ca86ce0a309472c86882f3ee51cd672cba89ab133d47b1121e762a55851e4"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-6.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-6.jpeg",
+      "bytes": 186177,
+      "sha256": "663eb0c5786bfa06b3207ab086451644b748654355838addccbc74df3f0c4b39"
+    },
+    "assets/elementor/js/image-carousel.4455c6362492d9067512.bundle.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/js/image-carousel.4455c6362492d9067512.bundle.min.js",
+      "bytes": 432,
+      "sha256": "7b970386affb31d3dae16606ff2679ada2481975982265c32af76cdd33e07b2e"
+    },
+    "assets/elementor/js/lightbox.94b920846d1e37cafb78.bundle.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/js/lightbox.94b920846d1e37cafb78.bundle.min.js",
+      "bytes": 30252,
+      "sha256": "cc85589878e6a5fc50ddf455d837fc2e889cc14d1e9f100e46c77642339cb47d"
+    },
+    "assets/elementor/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js",
+      "bytes": 1360,
+      "sha256": "7afc19c086e9a3f91fb499864aeb4d49874a08a33ab5f5e7a8ede79064cfb260"
+    },
+    "assets/elementor/js/video.d11c91c1b2b642a34601.bundle.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/js/video.d11c91c1b2b642a34601.bundle.min.js",
+      "bytes": 3171,
+      "sha256": "ac31c6be9270a431c6ddf84bbb1a7d95ee52ed3ae2540f5e19e378ff0b9ae7c4"
+    },
+    "assets/galeria/cropped-FAVICON-270x270.jpg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/cropped-FAVICON-270x270.jpg",
+      "bytes": 7818,
+      "sha256": "56299a056b80929c9196c0a77c99fd990bf2e49ba024f2c125e25d7243521b87"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-2.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-2.jpeg",
+      "bytes": 464364,
+      "sha256": "127027d6ea29a4a388a23d23b65843fffe74d78786cce5b44926975b51322261"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-4.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-4.jpeg",
+      "bytes": 210620,
+      "sha256": "0b77f75bcfb38efb3dcd00e3331af5f007496c5fe44a4f3bb9f3359fd5e2b3b0"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-8.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-8.jpeg",
+      "bytes": 210620,
+      "sha256": "0b77f75bcfb38efb3dcd00e3331af5f007496c5fe44a4f3bb9f3359fd5e2b3b0"
+    },
+    "assets/galeria/doacao-cesta-basica-rj-9.jpeg": {
+      "url": "https://kitalimentacao.com.br/wp-content/uploads/2024/07/doacao-cesta-basica-rj-9.jpeg",
+      "bytes": 155211,
+      "sha256": "17f2720212f956ca43acaea4c2790e516248fdb7b4b31e040bd8b7d25f7b1258"
+    },
+    "assets/elementor/lib/share-link/share-link.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js",
+      "bytes": 2752,
+      "sha256": "1030dee6b293cd2f1331f5355130a5db48929f961ba7409a4d4ce83c73caefdd"
+    },
+    "assets/elementor/lib/dialog/dialog.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js",
+      "bytes": 10777,
+      "sha256": "749050b9e72078b086ef578e9d5c6e764c89985d149a4ac76861004e0e6945ca"
+    },
+    "assets/elementor/lib/swiper/v8/swiper.min.js": {
+      "url": "https://kitalimentacao.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+      "bytes": 143709,
+      "sha256": "2ac3af00c283c0b2ae6108fa83a2053e51274a2a812fb063916cbe19bc4f96b5"
+    }
+  },
+  "notes": [
+    "Somente página inicial. Nenhuma outra página, PDF ou endpoint WordPress migrado.",
+    "WhatsApp e mailto mantidos. Email corrigido para kitalimentacao@gmail.com por autorização de Diego em 25/10/2026.",
+    "Trackers conhecidos removidos; sem ativação de medição na nova hospedagem."
+  ],
+  "email_correction": {
+    "authorized_at": "2026-10-25",
+    "from": "kitalimentacao@gmai.com",
+    "to": "kitalimentacao@gmail.com",
+    "scope": "local hosting derivative; original capture and prior Drive package preserved"
+  }
+}

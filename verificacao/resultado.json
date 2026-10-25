@@ -1,0 +1,191 @@
+{
+  "startedAt": "2026-10-25T23:09:58.763Z",
+  "tests": [
+    {
+      "label": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "errors": [],
+      "failures": [],
+      "external": [],
+      "badResponses": [],
+      "images": {
+        "total": 26,
+        "loaded": 26
+      },
+      "horizontalOverflow": false,
+      "anchor": {
+        "hash": "",
+        "y": 2108
+      },
+      "carousel": {
+        "before": "0",
+        "after": "1"
+      },
+      "gallery": {
+        "viewed": 11,
+        "unique": 11,
+        "local": true
+      },
+      "video": {
+        "duration": 16.392993,
+        "advanced": 1.160067,
+        "decodedFrames": 243,
+        "src": "http://127.0.0.1:8766/assets/embedded/629218d8d5d81a2d420a.mp4"
+      },
+      "contacts": [
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "mailto:kitalimentacao@gmai.com"
+      ],
+      "visibleTextLength": 1271,
+      "reloadImages": {
+        "total": 26,
+        "loaded": 26
+      },
+      "passed": true
+    },
+    {
+      "label": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "failures": [],
+      "external": [],
+      "badResponses": [],
+      "images": {
+        "total": 22,
+        "loaded": 22
+      },
+      "horizontalOverflow": false,
+      "anchor": {
+        "hash": "",
+        "y": 4242
+      },
+      "carousel": {
+        "before": "0",
+        "after": "1"
+      },
+      "gallery": {
+        "viewed": 11,
+        "unique": 11,
+        "local": true
+      },
+      "video": {
+        "duration": 16.392993,
+        "advanced": 1.16188,
+        "decodedFrames": 251,
+        "src": "http://127.0.0.1:8766/assets/embedded/629218d8d5d81a2d420a.mp4"
+      },
+      "contacts": [
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "mailto:kitalimentacao@gmai.com"
+      ],
+      "visibleTextLength": 1271,
+      "reloadImages": {
+        "total": 22,
+        "loaded": 16
+      },
+      "passed": true
+    },
+    {
+      "label": "file-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "errors": [],
+      "failures": [],
+      "external": [],
+      "badResponses": [],
+      "images": {
+        "total": 26,
+        "loaded": 26
+      },
+      "horizontalOverflow": false,
+      "anchor": {
+        "hash": "",
+        "y": 2108
+      },
+      "carousel": {
+        "before": "0",
+        "after": "1"
+      },
+      "gallery": {
+        "viewed": 11,
+        "unique": 11,
+        "local": true
+      },
+      "video": {
+        "duration": 16.392993,
+        "advanced": 1.1616879999999998,
+        "decodedFrames": 307,
+        "src": "file:///Users/diegorangel/www/daiegon/kitalimentacao/assets/embedded/629218d8d5d81a2d420a.mp4"
+      },
+      "contacts": [
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "mailto:kitalimentacao@gmai.com"
+      ],
+      "visibleTextLength": 1271,
+      "reloadImages": {
+        "total": 26,
+        "loaded": 26
+      },
+      "passed": true
+    },
+    {
+      "label": "file-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "failures": [],
+      "external": [],
+      "badResponses": [],
+      "images": {
+        "total": 22,
+        "loaded": 22
+      },
+      "horizontalOverflow": false,
+      "anchor": {
+        "hash": "",
+        "y": 4242
+      },
+      "carousel": {
+        "before": "0",
+        "after": "1"
+      },
+      "gallery": {
+        "viewed": 11,
+        "unique": 11,
+        "local": true
+      },
+      "video": {
+        "duration": 16.392993,
+        "advanced": 1.160494,
+        "decodedFrames": 302,
+        "src": "file:///Users/diegorangel/www/daiegon/kitalimentacao/assets/embedded/629218d8d5d81a2d420a.mp4"
+      },
+      "contacts": [
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "https://api.whatsapp.com/send?phone=5521964821290&text=Ol%c3%a1%21%20Gostaria%20de%20um%20or%C3%A7amento%20de%20*Cestas%20B%C3%A1sicas%20para%20Doa%C3%A7%C3%A3o*.%20Meu%20nome%20%C3%A9...",
+        "mailto:kitalimentacao@gmai.com"
+      ],
+      "visibleTextLength": 1271,
+      "reloadImages": {
+        "total": 22,
+        "loaded": 19
+      },
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "finishedAt": "2026-10-25T23:10:50.960Z"
+}

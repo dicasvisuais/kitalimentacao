@@ -1,5 +1,7 @@
-node_modules/
-bower_components/
-_build/
-assets/
-.jekyll-metadata
+.DS_Store
+__pycache__/
+*.pyc
+verificacao/*.png
+
+# Recibo privado de cópia do acervo; não faz parte do site.
+verificacao/recibo-acervo.json
