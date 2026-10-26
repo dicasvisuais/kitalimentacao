@@ -5,3 +5,7 @@ verificacao/*.png
 
 # Recibo privado de cópia do acervo; não faz parte do site.
 verificacao/recibo-acervo.json
+
+# Saída de publicação e vínculo local da Vercel.
+public/
+.vercel/

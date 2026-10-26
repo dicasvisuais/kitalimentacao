@@ -60,11 +60,15 @@ inclusive os erros de módulos que motivaram a derivação hospedável.
 
 ## Repositório e hospedagem
 
-Repositório: https://github.com/Daiegon/kitalimentacao — histórico preservado.
+Repositório de publicação: https://github.com/dicasvisuais/kitalimentacao — histórico preservado.
+O original em https://github.com/Daiegon/kitalimentacao permanece preservado.
 Todos os 68 arquivos versionados da revisão `11c5497393fa92ffa761f2b330a85f2f5c65a778`
 estão em `_antigo_2016/`, com bytes preservados. A versão nova fica na raiz.
 
-Cloudflare Pages: conectar este repositório, branch de produção `master`,
-framework `None`, sem comando de build e diretório de saída `.`. Validar o
-endereço `pages.dev` antes de associar o domínio e trocar o apontamento.
-Manter os registros de e-mail existentes durante a migração.
+Vercel: conectar este repositório, branch de produção `master`, framework
+`Other`. `vercel.json` prepara `public/` com `index.html` e `assets/`, que são
+os únicos arquivos servidos. O acervo `_antigo_2016/`, os scripts de preparo e
+as evidências permanecem no repositório. DNS continua gerenciado na Cloudflare.
+Projeto: https://vercel.com/dicasvisuais/kitalimentacao. Domínio principal:
+https://kitalimentacao.com.br/; `www` redireciona para o principal.
+Validar a publicação antes de mudar o DNS e preservar os serviços de e-mail.
